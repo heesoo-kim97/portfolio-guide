@@ -5,8 +5,8 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 ---
 ## 📚 Table of Contents
 
-- [Projects](#projects)
-- [Skills & Tools](#skills--tools)
+- [Projects](#-projects)
+- [Skills & Tools](#-skills--tools)
 
 ---
 ## 📊 Projects
