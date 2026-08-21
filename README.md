@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here, I showcase projects where business, data, and technology come together to solve real-world problems.
 
 ---
-## 📚 Table of Contents
+## Table of Contents
 
 - [Projects](#projects)
 - [Skills & Tools](#skills--tools)
