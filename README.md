@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 | Project | Tools | Skills | Description |
 |---|---|---|---|
 | [Subscription Behavior Analysis](https://github.com/heesoo-kim97/subscription-behavior-analysis/blob/main/README.md) | Python, SQL, MySQL | Data Preparation, SQL Analysis, Customer Segmentation | Prepared and analyzed customer subscription data using Python and SQL, identifying renewal patterns across industries and customer segments. |
-| [Interactive Geospatial Dashboard](LINK) | JavaScript, deck.gl, Mapbox | Geospatial Analysis, Data Visualization, Web Development | Developed an interactive geospatial dashboard using JavaScript and deck.gl to visualize and explore geographic data through an interactive map interface. |
+| [Interactive Geospatial Dashboard](https://github.com/heesoo-kim97/Interactive-Geospatial-Dashboard/blob/main/README.md) | JavaScript, deck.gl, Mapbox | Geospatial Analysis, Data Visualization, Web Development | Developed an interactive geospatial dashboard using JavaScript and deck.gl to visualize and explore geographic data through an interactive map interface. |
 | [Machine-Sensor Dashboard](LINK) | BIX5, JavaScript | Data Visualization, Dashboard Development, Data Analysis | Developed a business intelligence dashboard to visualize machine-sensor data, enabling users to monitor equipment performance and identify data trends. |
 | [NY Coffee Shop Analysis](LINK) | Excel | Data Analysis, Data Visualization, Business Intelligence | Analyzed New York coffee shop data to identify trends and patterns in business locations, ratings, and other attributes through data visualization. |
 
