@@ -5,11 +5,11 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 ---
 ## 📚 Table of Contents
 
-- [Projects](#-projects)
-- [Skills & Tools](#-skills--tools)
+- [Projects](#projects)
+- [Skills & Tools](#skills--tools)
 
 ---
-## 📊 Projects
+## Projects 📊
 
 | Project | Tools | Skills | Description |
 |---|---|---|---|
@@ -19,7 +19,7 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 | [NY Coffee Shop Analysis](LINK) | Excel | Data Analysis, Data Visualization, Business Intelligence | Analyzed New York coffee shop data to identify trends and patterns in business locations, ratings, and other attributes through data visualization. |
 
 ---
-## 🛠️ Skills & Tools
+## Skills & Tools 🛠️
 
 <br>
 
