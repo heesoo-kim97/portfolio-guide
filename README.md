@@ -17,6 +17,7 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 | [Interactive Geospatial Dashboard](https://github.com/heesoo-kim97/Interactive-Geospatial-Dashboard/blob/main/README.md) | JavaScript, deck.gl, Mapbox | Geospatial Analysis, Data Visualization, Web Development | Developed an interactive geospatial dashboard using JavaScript and deck.gl to visualize and explore geographic data through an interactive map interface. |
 | [Machine-Sensor Dashboard](https://github.com/heesoo-kim97/machine-sensor-dashboard/blob/main/README.md) | BIX5, JavaScript | Data Visualization, Dashboard Development, Data Analysis | Developed a business intelligence dashboard to visualize machine-sensor data, enabling users to monitor equipment performance and identify data trends. |
 | [NY Coffee Shop Analysis](https://github.com/heesoo-kim97/NY-coffee/blob/main/README.md) | Excel | Data Analysis, Data Visualization, Business Intelligence | Analyzed New York coffee shop data to identify trends and patterns in business locations, ratings, and other attributes through data visualization. |
+| [Global CO2 Emissions](https://github.com/heesoo-kim97/Global-CO2/blob/main/README.md) | Tableau | Data Analysis, Data Visualization, Geospatial Analysis | Analyzed historical CO₂ emissions to identify shifts in global emission contributions, compare population with total emissions, and examine country-level emissions per capita through interactive visualizations. |
 
 ---
 ## Skills & Tools
