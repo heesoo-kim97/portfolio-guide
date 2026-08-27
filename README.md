@@ -34,7 +34,6 @@ Welcome to my portfolio! Here, I showcase projects where business, data, and tec
 <br>
 
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![BIX5](https://img.shields.io/badge/BIX5-Business%20Intelligence-5B7DB1?style=for-the-badge)
 ![deck.gl](https://img.shields.io/badge/deck.gl-Geospatial%20Visualization-FF6B35?style=for-the-badge)
 ![Mapbox](https://img.shields.io/badge/Mapbox-Geospatial%20Mapping-000000?style=for-the-badge&logo=mapbox&logoColor=white)
